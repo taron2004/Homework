@@ -34,3 +34,11 @@ width: 30%;
 .nav ul li{
     float: left;
 }
+.nav a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    font-weight:300;
+    transition: all 0.8s;
+}
