@@ -42,3 +42,7 @@ width: 30%;
     font-weight:300;
     transition: all 0.8s;
 }
+.nav a:hover{
+    background-color: rgb(45, 153, 255);
+    border-radius: 25px;
+}
