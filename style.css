@@ -46,3 +46,6 @@ width: 30%;
     background-color: rgb(45, 153, 255);
     border-radius: 25px;
 }
+.clean{
+    clear: both;
+}
